@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: pink; /* Light gray background for visual appeal */
+}
+
+
+.love-message {
+    font-size: 3em;
+    color: white; /* Reddish color for emphasis */
+    font-weight: bold;
+}

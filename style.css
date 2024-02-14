@@ -1,0 +1,32 @@
+body {
+  background-color: pink;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 36px;
+  margin-top: 100px;
+}
+
+button {
+  border: none;
+  border-radius: 30%;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#yes {
+  background-color: green;
+  color: white;
+  margin: 0 20px;
+  position: left 100px;
+}
+
+#no {
+  background-color: red;
+  color: white;
+  position: absolute;
+}
